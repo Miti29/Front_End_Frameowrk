@@ -1,4 +1,5 @@
-# Front_End_Frameowrk
+# Created a basic Rick and Morty Hub by fetching all the characters from API and displaying them
+
 
 ### Packages for installation:
 
@@ -15,6 +16,7 @@ npm install react-paginate --save
 npm install react-router-dom
 
 npm start
+
 
 ### To use bootstrap, import the following in app.js
 
